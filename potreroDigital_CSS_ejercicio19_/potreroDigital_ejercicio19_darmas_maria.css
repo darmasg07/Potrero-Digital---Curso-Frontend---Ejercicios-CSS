@@ -1,0 +1,25 @@
+.box {
+	display: flex;
+    flex-flow: row ;
+    align-items:center;
+}
+.parrafo1{
+	font-family:sans-serif; ;
+	font-style: oblique;
+	font-size: 20px;
+	color: gray;
+
+}
+
+.parrafo2{
+	font-family:serif; ;
+	font-size: 20px;
+	color: gray;
+}
+
+.parrafo3{
+	font-family:monospace; ;
+	text-align: justify;
+	font-size: 15px;
+	color: gray;
+}
